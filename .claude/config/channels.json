@@ -2,14 +2,14 @@
   "channels": [
     {
       "name": "삼프로TV",
-      "channel_id": "UCuKbFhMJMPMHONdCFcuVLrg",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "url": "https://www.youtube.com/@3protv",
       "keywords": ["증시", "시황", "마감", "전망", "오전장", "장마감"]
     },
     {
       "name": "한국경제TV",
-      "channel_id": "UCZ2QJbYygHFJqDFEVJWY1MA",
-      "url": "https://www.youtube.com/@wowtv",
+      "channel_id": "UCF8AeLlUbEpKju6v1H6p8Eg",
+      "url": "https://www.youtube.com/@한국경제TV",
       "keywords": ["증시", "시황", "마감", "주식", "전망"]
     }
   ],
